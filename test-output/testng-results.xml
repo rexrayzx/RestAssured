@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-04-06T10:00:16 IST" name="Default suite" finished-at="2021-04-06T10:00:16 IST" duration-ms="424">
+  <suite started-at="2021-04-06T12:11:21 IST" name="Default suite" finished-at="2021-04-06T12:11:24 IST" duration-ms="3091">
     <groups>
     </groups>
-    <test started-at="2021-04-06T10:00:16 IST" name="Default test" finished-at="2021-04-06T10:00:16 IST" duration-ms="424">
-      <class name="com.rmgTest.AssignmentPojo">
-        <test-method signature="assignment()[pri:0, instance:com.rmgTest.AssignmentPojo@3cc1435c]" started-at="2021-04-06T10:00:16 IST" name="assignment" finished-at="2021-04-06T10:00:16 IST" duration-ms="369" status="PASS">
+    <test started-at="2021-04-06T12:11:21 IST" name="Default test" finished-at="2021-04-06T12:11:24 IST" duration-ms="3091">
+      <class name="com.rmgTest.GetProjectPath">
+        <test-method signature="getProject()[pri:0, instance:com.rmgTest.GetProjectPath@87a85e1]" started-at="2021-04-06T12:11:21 IST" name="getProject" finished-at="2021-04-06T12:11:24 IST" duration-ms="3028" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- assignment -->
-      </class> <!-- com.rmgTest.AssignmentPojo -->
+        </test-method> <!-- getProject -->
+      </class> <!-- com.rmgTest.GetProjectPath -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
